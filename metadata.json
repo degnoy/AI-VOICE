@@ -1,0 +1,7 @@
+{
+  "name": "Thai & Multilingual AI Text-to-Speech Studio",
+  "description": "แปลงข้อความเป็นเสียงพูด AI คุณภาพสูง ปรับแต่งสไตล์และโทนเสียง ฟังเสียงสด และดาวน์โหลดเป็น MP3 ได้ทันที",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
